@@ -1,7 +1,13 @@
 # SamyOS
 Samy OS is a Real-Time Operating System written from scratch, targeting
 Embedded Systems Applications.It is Built on the ARM CMSIS V5 Library for easy porting and simple software re-use. 
-&ensp; <br />
+
+#### ```💡 Please Note that this Project is made for educational and learning purposes, trying to better my understanding of Real-Time Operating Systems.```
+
+``` As such, it may contain imperfections or faults that I have yet to discover.So if you spot an issue or bug fixes, feel free to submit a pull request.```
+
+``` 📌 Looking ahead, I am planning to continuously refine and enhance this project, adding new features and addressing any identified faults. ```
+
 
 ## OS Feautres:
 1) **Pre-emptive Scheduler:** SamyOS is a Priority based scheduler, supporting **Round-Robin** scheduling algorithm for same priority tasks. 
